@@ -1,0 +1,79 @@
+{
+    "version": "1.0",
+    "maker_id": "BUSINESS_PARK",
+    "maker_name": "Business Park",
+    "header": {
+      "title": "Detalles de facturación",
+      "logo_url": "https://apps.eneriongroup.com/icons/bussines.png",
+      "name": "DESARROLLO INMOBILIARIO DEL ESTE, S.A",
+      "address": "Calle 182#51-24",
+      "ruc": "1",
+      "dv": ""
+    },
+    "footer": {
+      "column": []
+    },
+    "customer": {
+      "name": "Procter & Gamble Interamericas",
+      "address": "",
+      "ruc": null,
+      "dv": "-",
+      "tower": "V",
+      "floor": "1",
+      "meter": "P1-A01"
+    },
+    "invoice": {
+      "unique_id": "34864d18-4227-49ff-b3db-961ed1d2559d",
+      "date": "2025-02-26",
+      "expiration": "2025-03-08",
+      "registry_type": "Real",
+      "month": "02",
+      "year": "2025",
+      "start_date": "2025-02-18",
+      "end_date": "2025-02-25",
+      "days": 8,
+      "start_value": 84190.4,
+      "end_value": 86060.8,
+      "energy": 1870.39999999999,
+      "demand": 16.903,
+      "pecim": 1,
+      "cadmm": 1,
+      "cac": 0,
+      "current": 1870.39999999999,
+      "cadmm_total": 18.7039999999999,
+      "current_subtotal": 1889.10399999999,
+      "interest": 0,
+      "current_total": 1889.10399999999,
+      "prev_total": 0,
+      "subtotal": 1889.10399999999,
+      "itbms": 0.1,
+      "itbms_total": 1.88910399999999,
+      "total": 606.170997999999,
+      "g_total": 606.170997999999,
+      "c_symbol": "$",
+      "enable_cac": true,
+      "cac_p": 100,
+      "common_area": -1284.822106
+    },
+    "history": [
+      {
+        "date": "Dic.-24",
+        "value": 81060.8
+      },
+      {
+        "date": "Ene.-25",
+        "value": 1000
+      },
+      {
+        "date": "Feb.-25",
+        "value": 1870.39999999999
+      }
+    ],
+    "balance_due": {
+      "0_30": 0,
+      "30_60": 0,
+      "60_90": 0,
+      "90": 0
+    },
+    "is_preview": true
+  }
